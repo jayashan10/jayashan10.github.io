@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Loremdgasdg ipsumddfafgdas dolor sitdfd amet, consectetur adipiscing elit, sedagdd do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariaturdaga.
+I’m a highly motivated data enthusiast passionate about leveraging technology to improve healthcare outcomes. I’m pursuing my Master’s in Health Informatics at Northeastern University, where I'm deepening my understanding of data analysis, machine learning, and their applications in clinical settings. My previous experience as a Data Engineer has equipped me with strong technical skills in Python, PySpark, SQL, and cloud platforms (Azure, GCP), which I’m eager to apply within the healthcare domain. I'm particularly interested in clinical information systems and the potential of AI to enhance patient care and decision-making. Outside of my studies, I'm developing a Clinical Trial Documents Assistant using open-source LLMs to improve how healthcare professionals access and utilize critical information. I also have developed some interest to learn about Drug discovery, and how AI/ML is being used in this field
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
