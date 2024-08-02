@@ -12,7 +12,7 @@ I’m a highly motivated data enthusiast passionate about leveraging technology 
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+{% include about/skills.html title="AI/ML Skills" source=site.data.other-skills %}
 </div>
 
 <div class="row">

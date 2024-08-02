@@ -2,14 +2,26 @@
   from: 2024
   to: present
   description: I am currently pursuing my masters in Health Informatics.
-               I have a keen interest in using ML in healthcare. I have worked on 
-               using RAG to create a Clinical Trials documents assistant.
+               I have a keen interest in using ML in healthcare. The program has already opened my eyes to the 
+               immense potential of data-driven approaches in improving patient care and healthcare systems. One of the highlights 
+               of my academic journey so far has been working on a Clinical Trials documents assistant using RAG (Retrieval-Augmented Generation). 
+               I've leveraged open-source Large Language Models (LLMs) and deployed them on serverless platforms, gaining valuable experience in both the technical 
+               implementation and the scalability aspects of AI in healthcare. My exploration didn't stop there. I've delved into the intricacies of fine-tuning LLM models specifically for healthcare applications. 
+               This process has given me insights into how to adapt powerful, general-purpose models to the nuanced and sensitive domain of healthcare. 
+               Additionally, I've worked on synthetic data generation for the healthcare domain, a crucial area that addresses the challenges of data scarcity and privacy concerns in medical research. 
 
 - title: Data Engineer, LTIMindtree
   from: 2021
   to: 2023
   description: It was my first job. I was happy to get into Data. I got to dabble
-               in many aspects of Data and ML. I was initially in the MLOPS Center of Excellence.
+               in many aspects of Data and ML. I got to work and experiment with all new frameworks
+               and technologies, be it LLMs, Computer Vison, Snowflake and Databricks. I got a
+               sense of how products are developed and sold to clients. The understanding of business was
+               very critical. I worked on creating a model monitoring solution, which broadened my perspective of 
+               ML lifecycles. My final project at LTIMindtree, working with Unilever, was where I really saw how data 
+               engineering and ML could drive business decisions. Integrating search terms with sales data to identify market 
+               trends was fascinating – it was like uncovering hidden patterns in consumer behavior. Throughout my time at LTIMindtree,
+               I was constantly learning and adapting to new technologies and methodologies. From AWS SageMaker to GCP's Vertex AI, from Python to PySpark, each project brought new tools and challenges. This experience solidified my passion for data and ML
 
 
 - title: IIT Bombay, Material Science
@@ -17,7 +29,10 @@
   to: 2021
   description: My bachelors was in Metallurgy and Material Science. To be hones, I
                I didn't enjoy doing Material Science. It is however fun to stay in touch 
-               with the field to look out for new innovations and research. 
-               However, I developed some interest for ML.
-               I took a few courses online during my sophomor summers, and continued 
-               to pursue studying it in my further semesters. 
+               with the field to look out for new innovations and research. This period of my life taught me an invaluable lesson about the importance of exploring 
+               different fields and being open to changing directions.
+               I developed some interest for ML.
+               I took a few courses online during my sophomore summers, and continued 
+               to pursue studying it in my further semesters.This self-directed learning alongside my formal studies was challenging but deeply rewarding.
+               It taught me the importance of continuous learning and adapting to new technologies – a mindset that has served me well in my career. This interdisciplinary approach gave me
+               a unique perspective, allowing me to see potential applications of ML in materials science and other fields. 
